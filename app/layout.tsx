@@ -42,7 +42,7 @@ export default function RootLayout({
               <div className="absolute inset-0 bg-gradient-to-b from-purple-50/90 to-white/90" />
               <main className="relative flex flex-col items-center justify-center min-h-screen text-center px-4">
                 <h1 className="text-6xl font-bold text-[#624cf5] mb-6">
-                  Imaginify
+                  Vividly
                 </h1>
                 <p className="text-xl text-gray-600 max-w-2xl mb-12">
                   Transform your imagination into reality with our AI-powered image generation platform
