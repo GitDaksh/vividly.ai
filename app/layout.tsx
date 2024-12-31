@@ -16,7 +16,7 @@ const IBMPlex = IBM_Plex_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Imaginify",
+  title: "Vividly",
   description: "AI-powered image generator",
 };
 
@@ -54,7 +54,7 @@ export default function RootLayout({
                     </button>
                   </SignInButton>
                   <p className="text-gray-500">
-                    Join thousands of creators using Imaginify
+                    Join thousands of creators using Vividly
                   </p>
                 </div>
               </main>
